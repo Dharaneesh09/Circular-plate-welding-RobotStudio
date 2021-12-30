@@ -1,0 +1,40 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: D:\assignments and books\Sem 5\Robotics_and_Programming\DA2\CircularPlateWelding\Virtual Controllers\TEMP\e34697d6-04dd-480d-a3c7-87d6df75fdad\backup.383467
+# 2021-11-29  18:12:23
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.12.04.00
+
+  RobotWare Base
+  English
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  Axis Calibration
+  IRB 1200-5/0.9 Type B
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+
+>>EOF:
