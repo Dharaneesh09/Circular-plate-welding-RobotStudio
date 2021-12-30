@@ -1,1 +1,3 @@
-"# Circular-plate-welding-RobotStudio" 
+# Circular-plate-welding-RobotStudio 
+
+Just open this as a project from RobotStudio and it works...
